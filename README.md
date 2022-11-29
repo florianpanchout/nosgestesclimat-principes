@@ -1,4 +1,6 @@
-# Principes de design et de développement de nosgestesclimat.fr
+# Principes de travail, de design et de développement de nosgestesclimat.fr
+
+> 🚧 Ceci est un document de travail, à lire et discuter ensemble !
 
 Ce document a pour but d'expliquer une partie des choix faits pour le site nosgestesclimat.fr (dont certains héritent de décisions de 2017 via mon-entreprise.fr !) et de poser des principes à respecter pour la suite.
 
@@ -12,6 +14,7 @@ Il me semble important de le versionner sur git, et important de le faire évolu
 
 ## Table des matières
 
+- [Embarquement d'un nouveau membre](https://github.com/datagir/nosgestesclimat-principes/blob/main/embarquement.md)
 - [Itération plutôt que perfection](https://github.com/datagir/nosgestesclimat-principes/blob/main/it%C3%A9ration.md)
 - [L'interface doit être mobile, moderne et attrayante](https://github.com/datagir/nosgestesclimat-principes/blob/main/interface.md)
 - [Moteurs de recherce (SEO) et partage sur les réseaux](https://github.com/datagir/nosgestesclimat-principes/blob/main/seo.md)
