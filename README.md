@@ -6,4 +6,6 @@ L'idée n'est **absolument pas de figer les choses**, mais d'échanger et de s'a
 
 > On ne rentre pas trop dans le code et l'implémentation pour qu'il concerne tout le monde, pas que les développeurs
 
-Il me semble important de le versionner sur git, et important de le faire évoluer en discutant à l'oral et / ou en faisant simplement des PR argumentées sur ce dépôt. 
+Il me semble important de le versionner sur git, et important de le faire évoluer en discutant à l'oral et / ou en faisant simplement des PR argumentées sur ce dépôt, car la valeur est notamment beaucoup dans l'échange.
+
+À ma connaissance les Wiki ne permettent pas facilement commentaires / réponses / suggestions, juste l'édition asynchrone. 
