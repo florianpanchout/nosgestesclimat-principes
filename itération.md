@@ -3,8 +3,9 @@
 
 Dans les phases "de croisière", nous recherchons à tout moment des moyens de mettre en ligne les nouveautés et corrections au plus vite, plutôt que de passer beaucoup de temps à concevoir une PR parfaite ou une refonte complète. 
 
-Cette méthode impose de choisir de façon fluide une petite équipe créée à la volée pour prendre la responsabilité de l'implémentation d'une fonctionnalité. Cette petite équipe peut être constituée d'une, de deux ou rarement 3 personnes. La productivité décroit très souvent avec le nombre de personnes impliquées. 
+### Donner mandat à des équipes dynamiques 
 
+Cet objectif d'itération rapide (mise en ligne d'une fonctionnalité au maximum toutes les 2 semaines, la durée du sprint), opposé à de longues périodes de travail (3 mois) sans mise en ligne, impose de choisir de façon fluide une petite équipe créée à la volée pour prendre la responsabilité de l'implémentation d'une fonctionnalité. Cette petite équipe peut être constituée d'une, de deux ou rarement 3 personnes. La productivité décroit très souvent avec le nombre de personnes impliquées. 
 
 ### Éviter de faire trop de plans sur la comète
 
