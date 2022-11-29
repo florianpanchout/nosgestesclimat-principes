@@ -23,7 +23,9 @@ Pour chaque PR, il faut décider si une démo est nécessaire avant ou après la
 
 > Github permet, via son système d'issues (très accessible, il s'agit juste d'échange de messages markdown) et également de revue de Pull Request (plutôt axé dev, si le changement concerne du JS), de mener plusieurs discussions en parallèle sur une même proposition et ainsi éviter l'écueil de la discussion de 90 messages où plusieurs sujets relativement indépendants se chevauchent.
 
-Rappelons un vieil adage de BetaGouv : il vaut mieux demander pardon (en cas de problème) que de demander et attendre (longtemps) la permission. 
+Il est en pratique *très compliqué* de définir des règles logiques pour prévoir comment valider les avancées. Rappelons-nous que passer un coup de fil pour discuter 10 minutes d'un point est toujours possible, et que faire des retro est essentiel. 
+
+Rappelons aussi un vieil adage de BetaGouv : il vaut mieux demander pardon (en cas de problème) que de demander et attendre (longtemps) la permission. 
 
 ### Maquette ou itération ?
 
