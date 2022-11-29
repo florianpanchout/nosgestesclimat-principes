@@ -12,7 +12,7 @@ Il me semble important de le versionner sur git, et important de le faire évolu
 
 À ma connaissance les Wiki ne permettent pas facilement commentaires / réponses / suggestions, juste l'édition asynchrone. 
 
-## Table des matières
+## Liste des sujets
 
 - [Embarquement d'un nouveau membre](https://github.com/datagir/nosgestesclimat-principes/blob/main/embarquement.md)
 - [Itération plutôt que perfection](https://github.com/datagir/nosgestesclimat-principes/blob/main/it%C3%A9ration.md)
