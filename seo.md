@@ -11,3 +11,5 @@ L'avantage est que le score de perf Google est également très pertinent pour l
 On s'assure que la propriété croît régulièrement sur la *search console* de Google. 
 
 C'est chronophage de s'assurer que tout marche, mais le SEO est incontournable. 
+
+Nous avons actuellement (novembre 2022) un tas de problèmes SEO à régler, CF https://github.com/datagir/nosgestesclimat-site/issues/566
