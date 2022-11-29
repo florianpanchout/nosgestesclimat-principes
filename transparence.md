@@ -14,6 +14,9 @@ Le deuxième aspect très intéressant est de pousser à la contribution.
 - on s'assurer que toute personne doit être en mesure non seulement de comprendre, mais également de refaire tourner à moindre coût notre site et nos calculs. Ça veut dire qu'un calcul dans un tableur caché c'est pas tolérable, et qu'un calcul dans un tableur compliqué et mal documenté c'est imparfait (mais des fois nécessaire faute de temps, le tableur reste un outil incroyable)
 
 
-Pour aller plus loin, notamment côté modèle de calcul, voir ce document dont la cible est bien plus vaste que le seul modèle nosgestesclimat. 
+
+### Standards de conception des modèles de calcul ouverts
+
+Pour aller plus loin, surtout côté modèle de calcul, voir ce document dont la cible est bien plus vaste que le seul modèle nosgestesclimat. 
 
 https://pad.incubateur.net/umkhdmzES_SS5InXezin4Q?both
