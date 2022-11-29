@@ -1,4 +1,6 @@
- Moteurs de recherche et partage sur les réseaux
+# Moteurs de recherche et partage sur les réseaux
+
+> Cette section n'est pas encore très développée
 
 On s'assure que le poids du site, en octobre 2022 de ~1 Mo de javascript, n'explose pas. 
 
