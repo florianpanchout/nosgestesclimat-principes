@@ -36,10 +36,22 @@ Privilégier le travail comme une seule équipe. L'objectif est de s'éloigner a
 
 Mieux vaut faire des sessions de code et de design en direct, où les idées des un et des autres sont testées directement via la console du navigateur, via des changements de code, via une capture du site modifiée à l'arrache sur https://excalidraw.com, etc. Cela implique de prendre du temps. 
 
-Évidemment, ça n'empêche pas qu'un dev a souvent besoin de se mettre à fond seul sur une fonctionnalité avec une temporalité différente d'une expression de besoin, allant d'une demi-journée à plusieurs semaines de travail. Un designer doit parfois passer du temps à rebattre toutes les cartes et tester différents designs. 
+Évidemment, ça n'empêche pas qu'un dev a souvent besoin de se mettre à fond seul sur une fonctionnalité avec une temporalité différente d'une expression de besoin, allant d'une demi-journée à plusieurs semaines de travail. Un designer doit parfois passer du temps à rebattre toutes les cartes et tester différents designs.
 
 ### Revue de code dev
 
 Pour l'équipe de développement, la revue de code n'est pas nécessaire, mais parfois avantageuse : c'est avant tout à la personne qui développe de demander une revue, sauf évidemment pendant un temps d'embarquement dans l'équipe.
 
-Ceci est spécifique au contexte du site nosgestesclimat, aucunement critique à cette heure.
+> Ceci est spécifique au contexte du site nosgestesclimat, aucunement critique à cette heure.
+
+Il est important de responsabiliser les membres de l'équipe, plutôt que de concentrer (voir monopoliser), et donc souvent bloquer par goulet d'étranglement (le temps de chacun étant cruellement limité) la fluidité des itérations.
+
+Ceci, ajouté au besoin de ne jamais oublier l'objectif principal de notre mission (répondre à l'utilisateur), conduit à favoriser une organisation des tâches où les membres sont capables de "toucher à tout", ou au moins ont la visibilité sur l'ensemble de la chaîne de dépendances d'une fonctionnalité, de l'algorithmie jusqu'à l'UI. 
+
+Le risque, quand on s'organise avec une division du travail par métiers, étant de se laisser aller à la tentation naturelle de faire des fonctionnalités trop abstraites, trop perfectionnées, suroptimisées. 
+
+> Par exemple, pour ajouter la climatisation à nosgestesclimat, si l'on demande à quelqu'un d'implémenter un modèle de calcul climatisation, il peut y passer des semaines, le sujet étant suffisamment complexe (notamment, trouver les gaz réfrigérants actuellement sur le marché). À l'inverse, si on lui demande de mettre en ligne *la question utilisateur climatisation* et son modèle sous-jacent, il priorisera et se rendra bien compte que l'utilisateur n'a *acune idée* du gaz réfrigérant de sa clim, et qu'une version simplifiée du modèle peut être mise en ligne en 1 journée. 
+
+Bien sur cela n'empêche pas d'avoir des spécialisations et de faire évoluer l'organisation quand elle croît, si besoin. 
+
+
