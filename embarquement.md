@@ -14,18 +14,17 @@ La [FAQ](https://nosgestesclimat.fr/contribuer) constitue aussi un passage impor
 
 Le sujet de nosgestesclimat est complexe, au premier plan de la scène politique, et amène souvent à des débats sociétaux infinis. Il souffre malheureusement d'une quantité impressionnante d'idés reçues.
 
+Il est nécessaire de consacrer un temps pour une formation initiale, puis et perpétuelle sur le sujet, en particulier les sujets énergie et climat, indissociables.
 
-Le sujet de l'environnement est complexe et souffre malheureusement d'énormément d'idées reçues dans le débat public. 
-
-Il est nécessaire de consacrer un temps pour une formation initiale, puis et perpétuelle sur le sujet, en particulier les sujets énergie et climat, indissociables. 
+Qu'on touche au modèle, à l'interface (par exemple, doit-on parler d'un objectif de 2 tonnes ? Pourquoi ?), à la documentation, il est important d'avoir les bases. 
 
 En même temps, il est inutile de vouloir en faire le tour : même après des années de documentation acharnée, il resterea toujours une grande partie du mille-feuille à explorer :) 
 
 ⬇️ Nous listons ici les ressources qu'on apprécie, avec un ordre de priorité pour que ça reste pratique, en décrivant un peu le type de ressource et le contexte, et avec des liens directs.
  
-## Les conseils de Maël
+### Les conseils de Maël
 
-### Incontournable
+#### Incontournable
 
 - Jean-Marc Jancovici, qu'on ne présente plus, à mon avis incontournable quelle que soit notre position sur le sujet controversé du nucléaire : 
     - si l'on n'a qu'une heure devant soi, son [intervention devant des banquiers à Genève](https://www.youtube.com/watch?v=xMpTDcuhl9w)
@@ -33,12 +32,12 @@ En même temps, il est inutile de vouloir en faire le tour : même après des an
     - Son incontournable [série de cours des Mines](https://www.youtube.com/watch?v=xgy0rW0oaFI) sur l'énergie et le changement climatique
     - Sa BD avec Blain, très récente, bestseller français, à dévorer en une heure ou deux https://fr.wikipedia.org/wiki/Le_Monde_sans_fin
 
-### Autres ressources (lues en diagonale pour l'instant) : 
+#### Autres ressources (lues en diagonale pour l'instant) : 
 
 - Des mini-cours en ligne avec de belles infographies, par [Nicolas Bernard](https://twitter.com/bernnic0) : https://www.trajectoires.media
 - Des cours publics d'école de commerce, en ligne, par Pierre Peyretou (membre de beta) : https://commonsforfuture.escp.eu
 
-### À suivre sur twitter / mastodon
+#### À suivre sur twitter / mastodon
 
 - Chercheur en ACV, qui s'exprime sur plein de sujets pertinents et très techniques (du style, un peu référence internationale) https://twitter.com/ThomasGibon
 
@@ -47,7 +46,7 @@ En même temps, il est inutile de vouloir en faire le tour : même après des an
 - cet énergumène :D https://boitam.eu/@maeool
 
 
-## Les conseils de Clément
+### Les conseils de Clément
 
 - Les articles du média « [Bon Pote](bonpote.com) » en lien avec l’actualité
 - Notre article sur l’[empreinte carbone](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi) et nos [fiches thématiques](https://nosgestesclimat.fr/groupe/guide)
