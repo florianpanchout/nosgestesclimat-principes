@@ -7,6 +7,8 @@ Nos gestes climat est radicalement différent dans son usage d'un blog, d'un jou
 
 La conséquence : il consultera des dizaines d'écrans différents, d'où l'intérêt de ne charger le site, qui est donc une "app", qu'une fois pour rendre les transitions successives instantanées. 
 
+Notons que la partie /documentation et son usage pourraient répondre aussi au cas d'usage "blog" : je consulte une page, peut-être 2, mais pas forcément plus (j'ai vérifié un chiffre, c'est bon). 
+
 ### Pour le poids du site
 
 En pratique, la SPA nous donne la contrainte du poids du site à l'initialisation. D'où le chargement différé dit "fainéant" `React.lazy` qui nous permet de mettre de côté les parties non centrales du site. 
