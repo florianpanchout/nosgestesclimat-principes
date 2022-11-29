@@ -14,7 +14,7 @@ L'implémentation d'une fonctionnalité, c'est-à-dire le cycle de code (React, 
 
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_40458b46358043c2e3502bfe6072347f.png)
 
-> En particulier, *il est très compliqué de faire du A/B testing*, qui peut pourtant sembler être la méthode royale pour faire avancer une interface. Techniquement, c'est accessible (c'est une fonctionnalité de Netlify notre hébergeur), mais il faut définir la métrique, l'étudier, savoir quoi en faire. Ça demande beaucoup de ressources, qui si elles sont occupées ici ne le seront pas pour la prochaine fonctionnalité. Globalement c'est compliqué par rapport à l'alternative : itération rapide, quitte à faire un choix parmi deux options, puis analyse des retours / tests utilisateurs. 
+> En particulier, *il est très compliqué de faire du A/B testing*, qui peut pourtant sembler être la méthode royale pour faire avancer une interface. Techniquement, c'est accessible (c'est une fonctionnalité de Netlify notre hébergeur), mais il faut définir la métrique, l'étudier, savoir quoi en faire. Ça demande beaucoup de ressources, qui si elles sont occupées ici ne le seront pas pour la prochaine fonctionnalité. Ce n'est pas le cas d'applications comme Facebook, Deezer ou Doctolib qui ont les ressources pour évaluer l'impact de chaque possibilité d'interface. Globalement c'est donc plutot hors de notre portée à ce stade, sauf exception (*là* feature ultra osée), par rapport à l'alternative : itération rapide, quitte à faire un choix parmi deux options, puis analyse des retours / tests utilisateurs. 
 
 ### La démo et les discussions
 
