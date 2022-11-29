@@ -2,7 +2,7 @@
 
 Ce document a pour but d'expliquer une partie des choix faits pour le site nosgestesclimat.fr (dont certains héritent de décisions de 2017 via mon-entreprise.fr !) et de poser des principes à respecter pour la suite.
 
-L'idée n'est **absolument pas de figer les choses**, mais d'échanger et de s'accorder sur ces principes pour que l'équipe en général ait une compréhension commune de ces sujets. 
+L'idée n'est **absolument pas de figer les choses**, mais d'échanger et de s'accorder sur ces principes pour que l'équipe en général ait une compréhension commune de ces sujets. Il n'est en aucun cas complet 😄. 
 
 > On ne rentre pas trop dans le code et l'implémentation pour qu'il concerne tout le monde, pas que les développeurs
 
