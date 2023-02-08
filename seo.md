@@ -13,3 +13,5 @@ On s'assure que la propriété croît régulièrement sur la *search console* de
 C'est chronophage de s'assurer que tout marche, mais le SEO est incontournable. 
 
 Nous avons actuellement (novembre 2022) un tas de problèmes SEO à régler, CF https://github.com/datagir/nosgestesclimat-site/issues/566
+
+Nous avons créé début 2023 un compte https://ahrefs.com qui nous permet d'explorer plus profondément que via la search console l'indexation de notre site. 
