@@ -19,4 +19,4 @@ Le deuxième aspect très intéressant est de pousser à la contribution.
 
 Pour aller plus loin, surtout côté modèle de calcul, voir ce document dont la cible est bien plus vaste que le seul modèle nosgestesclimat. 
 
-https://pad.incubateur.net/umkhdmzES_SS5InXezin4Q?both
+https://publi.codes/docs/pourquoi-publicodes/standard-modeles-ouverts
